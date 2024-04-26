@@ -1,15 +1,10 @@
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
 }
-* {
-  font-family: "Jersey 15", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
+
