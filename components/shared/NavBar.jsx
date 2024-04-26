@@ -54,7 +54,7 @@ const Navbar = () => {
           />
           <CiSearch className="absolute right-4 mr-2" />
         </div>
-        <div className="hidden lg:flex "></div>
+        <div className="hidden lg:flex items"></div>
       <div className="flex items-center">
         <a className="flex items-center text-dlightest text-decoration-none cursor-pointer py-2 px-6 bg-darkest rounded-lg" ><CiUser className=" mr-[2px]" />Account</a>
         <div className="lg:hidden">
