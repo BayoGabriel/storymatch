@@ -5,7 +5,7 @@ const Yayy = () => {
     <>
         <div className="w-full h-screen items-center justify-center">
             <h5 className="font-bold">Wooooh Wooooh Woooh</h5>
-            <p className="mt-8"></p>
+            <p className="mt-8">I am yet to do th</p>
         </div>
     </>
   )
