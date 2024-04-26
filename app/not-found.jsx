@@ -3,7 +3,7 @@ import React from 'react'
 const Yayy = () => {
   return (
     <>
-        <div className=""></div>
+        <div className="w-full h-screen item"></div>
     </>
   )
 }
