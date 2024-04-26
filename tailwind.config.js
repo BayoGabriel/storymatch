@@ -34,3 +34,11 @@ const withMT = require("@material-tailwind/react/utils/withMT");
 //   },
 //   plugins: [],
 // };
+
+module.exports = withMT({
+  content: ["./pages/**/*.{js,ts,jsx,tsx}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+});
