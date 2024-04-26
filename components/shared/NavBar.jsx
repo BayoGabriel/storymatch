@@ -35,7 +35,7 @@ const Navbar = () => {
   return (
     <div className="bg-transparent w-full">
       <div className="flex justify-between items-center ">
-      <div className="flex">
+      <div className="flex gap-4">
       <Link href="/" className="text-darkest">
         LOGO
       </Link>
