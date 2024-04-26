@@ -68,7 +68,7 @@ const Navbar = () => {
         </div>
       </div>
       {isMenuOpen && (
-        <div className="lg:hidden z-40 flex rounded-20 flex-col items-center justify-center absolute top-20 left-1/2 transform -translate-x-1/2 bg-dlightest p-4 w-[80%]">
+        <div className="lg:hidden z-4 flex rounded-20 flex-col items-center justify-center absolute top-20 left-1/2 transform -translate-x-1/2 bg-dlighter p-4 w-full">
         {Navlinks.map((item, index) => {
           return (
             <Link href={item.route} key={index} className="text-ddarkest items-center text-decoration-none mb-4 w-full text-left">{item.title}</Link>
