@@ -7,4 +7,6 @@
     text-wrap: balance;
   }
 }
-* 
+* {
+  font-size: 11px;
+}
