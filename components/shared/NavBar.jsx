@@ -36,7 +36,7 @@ const Navbar = () => {
     <div className="bg-transparent w-full">
       <div className="flex justify-between items-center ">
       <div className="flex gap-4">
-      <Link href="/" className="text-agreen h-[50px] ">
+      <Link href="/" className="text-agreen h-[50px] bg-ared">
         heloo
       </Link>
       <Link href="/">Explore</Link>
