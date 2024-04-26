@@ -15,10 +15,6 @@ const Navbar = () => {
 
   const Navlinks = [
     {
-      title: "Home",
-      route: "/"
-    },
-    {
       title: "Rules",
       route: "/rules"
     },
