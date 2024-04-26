@@ -44,7 +44,7 @@ const Navbar = () => {
         <div className="hidden lg:flex relative items-center">
           <input
             type="text"
-            placeholder="Search a book you read"
+            placeholder="Search a book you are read"
             className="px-4 py-2 rounded-[40px] bg-dlightest w-[400px] appearance-none block border border-gray-300 placeholder-gray-500 text-ddarkest focus:outline-none focus:ring-darker focus:border-darker sm:text-sm"
           />
           <CiSearch className="absolute right-4 mr-2" />
