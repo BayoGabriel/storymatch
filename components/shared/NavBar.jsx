@@ -57,7 +57,7 @@ const Navbar = () => {
         <div className="hidden lg:flex items-center gap-4">
             {Navlinks.map((item, index) => {
                 return (
-                    L
+                    Link
                 )
             })}
         </div>
