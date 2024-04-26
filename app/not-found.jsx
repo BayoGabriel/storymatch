@@ -4,7 +4,8 @@ const Yayy = () => {
   return (
     <>
         <div className="w-full h-screen items-center justify-center">
-            Wooooh 
+            Wooooh Wooooh Woooh
+            
         </div>
     </>
   )
