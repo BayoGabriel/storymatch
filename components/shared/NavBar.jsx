@@ -43,10 +43,9 @@ const Navbar = () => {
   return (
     <div className="bg-transparent w-full">
       <div className="py-4 flex justify-between items-center ">
-      <Link href="/" className="text-darkest">
+      <Link href="/" className="text-darkest ">
         StoryMatch
       </Link>
-        <button className="text-ddarkest mr-4 hidden lg:flex items-center text-decoration-none">Seller Account</button>
         <div className="hidden lg:flex relative items-center">
           <input
             type="text"
