@@ -39,7 +39,7 @@ const Navbar = () => {
   return (
     <div className="bg-transparent w-full">
       <div className="flex justify-between items-center ">
-      <Link href="/" className="px-6 py-2 text-darkest">
+      <Link href="/" className="text-darkest">
         LOGO
       </Link>
         <div className="hidden lg:flex relative items-center">
