@@ -3,7 +3,7 @@ import React from 'react'
 const Yayy = () => {
   return (
     <>
-        <div className="w-full h-screen item"></div>
+        <div className="w-full h-screen items-center justify-center"></div>
     </>
   )
 }
