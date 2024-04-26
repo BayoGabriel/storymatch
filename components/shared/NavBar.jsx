@@ -55,7 +55,6 @@ const Navbar = () => {
           <CiSearch className="absolute right-4 mr-2" />
         </div>
       <div className="flex items-center">
-        <div className="mr-4 flex items-center">
           <a className="flex items-center text-ddarkest h-[1em] text-decoration-none cursor-pointer py-2 px-6 bg-darkest rounded-lg" ><CiUser className=" mr-[2px]" />Account</a>
         <div className="lg:hidden">
           {isMenuOpen ? (
