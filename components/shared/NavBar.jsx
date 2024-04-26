@@ -36,7 +36,7 @@ const Navbar = () => {
     <div className="bg-transparent w-full">
       <div className="flex justify-between items-center ">
       <div className="flex gap-4">
-      <Link href="/" className="text-darkest">
+      <Link href="/" className="text-agreen">
         LOGO
       </Link>
       <Link href="/">Explore</Link>
@@ -45,7 +45,7 @@ const Navbar = () => {
           <input
             type="text"
             placeholder="Search a book you are reading, mood, etc"
-            className="px-4 py-2 rounded-[40px] bg-dlightest w-[400px] appearance-none block border border-gray-300 placeholder-gray-500 text-ddarkest focus:outline-none focus:ring-darker focus:border-darker sm:text-sm"
+            className="px-4 py-2 rounded-[40px] bg-dlightest w-[400px] appearance-none block border border-gray-300 placeholder-gray-500 text-ddarkest focus:outline-none focus:ring-agreen focus:border-agreen sm:text-sm"
           />
           <CiSearch className="absolute right-4 mr-2" />
         </div>
@@ -77,7 +77,7 @@ const Navbar = () => {
           <input
             type="text"
             placeholder="Search..."
-            className="flex-1 px-4 py-2 pl-10 rounded-lg bg-white text-ddarkest w-full appearance-none block border border-gray-300 placeholder-gray-500 focus:outline-none focus:ring-darker focus:border-darker sm:text-sm"
+            className="flex-1 px-4 py-2 pl-10 rounded-lg bg-white text-ddarkest w-full appearance-none block border border-gray-300 placeholder-gray-500 focus:outline-none focus:ring-agreen focus:border-agreen sm:text-sm"
           />
           <div className="absolute top-0 right-4 flex items-center h-full pl-3">
             <CiSearch />
