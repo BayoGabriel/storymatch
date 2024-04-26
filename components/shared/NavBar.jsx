@@ -4,7 +4,7 @@ import { CiSearch, CiHeart, CiMenuFries, CiShoppingCart, CiUser } from "react-ic
 import { useState } from 'react';
 import Link from "next/link";
 import Image from "next/image";
-import logo from '@/public/'
+import logo from '@/public/logo'
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
