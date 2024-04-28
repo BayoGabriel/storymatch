@@ -37,7 +37,7 @@ const Navbar = () => {
       <div className="flex justify-between items-center ">
       <div className="flex gap-4">
       <Link href="/" className="text-agreen h-[50px] ">
-        L0go
+        Logo
       </Link>
       <Link href="/">Explore</Link>
       </div>
