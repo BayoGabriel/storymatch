@@ -13,7 +13,7 @@ const Hero = () => {
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
                 </div>
                 <div className="w-full h-full bg-green-800 text-white">
-                    
+                    <h1></h1>
                 </div>
                 <div className="w-full h-full bg-green-900 text-white">
                     <h1>Helloe worled</h1>
