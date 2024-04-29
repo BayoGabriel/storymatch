@@ -38,7 +38,7 @@ const TextAnimation = () => {
                   {text}
                 </span>
               ))}
-            </p>
+            </div>
           </div>
         </div>
       </div>
