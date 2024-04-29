@@ -14,7 +14,7 @@ const Hero = () => {
                         </h1>
                     </div>
                     <div className="max-lg:hidden flex gap-4">
-                        <Image src={}/>
+                        <Image src={one}/>
                     </div>
                 </div>
             </Carousel>
