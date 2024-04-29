@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
       <body>
         <div className="flex flex-col container m-auto px-10 py-4">
           <Navbar/>
-          
+          <Her
           {children}
         </div>
       </body>
