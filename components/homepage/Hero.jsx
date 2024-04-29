@@ -23,7 +23,7 @@ const Hero = () => {
                         <Image src={two} alt='two'/>
                         <Image src={three} alt='one'/>
                         <Image src={four} alt='four'/>
-                        <Image src={one} alt='one'/>
+                        <Image src={five} alt='five'/>
                         <Image src={one} alt='one'/>
                     </div>
                 </div>
