@@ -8,7 +8,7 @@ const Hero = () => {
             <Carousel leftControl=" " rightControl=" " indicators={false} pauseOnHover>
                 <div className="w-full h-full bg-green-700 text-white">
                     <div className="h5">
-                    Instant Connection, Endless Conversations
+                        
                     </div>
                 </div>
                 <div className="w-full h-full bg-green-800"></div>
