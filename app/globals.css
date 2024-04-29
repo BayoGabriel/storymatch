@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 * {
-  font-family: ;
+  font-family: popp;
 }
 @layer utilities {
   .text-balance {
