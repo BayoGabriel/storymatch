@@ -4,7 +4,7 @@ import one from '@/public/images/one.png'
 import two from '@/public/images/two.png'
 import three from '@/public/images/three.png'
 import four from '@/public/images/four.png'
-import fg from '@/public/images/fg.png'
+import five from '@/public/images/five.png'
 import one from '@/public/images/one.png'
 const Hero = () => {
   return (
