@@ -37,7 +37,7 @@ const TextAnimation = () => {
               {texts.map((text, idx) => (
                 <span
                   key={idx}
-                  className={idx === index ? 'active text' + text.style : text.style}
+                  className={idx === index ? 'active text-white' + text.style : text.style}
                 >
                   {text.description}
                 </span>
