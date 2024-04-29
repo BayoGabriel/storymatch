@@ -18,7 +18,7 @@ const Hero = () => {
                         Instant Connection, Endless Conversations
                         </h1>
                     </div>
-                    <div className="w-full flex "></div>
+                    <div className="w-full flex items"></div>
                 </div>
             </Carousel>
         </div>
