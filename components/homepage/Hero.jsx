@@ -6,7 +6,7 @@ const Hero = () => {
     <>
         <div className="h-full carousel carousel-vertical rounded-box">
             <div className="carousel-item h-full">
-                <Image alt='ufi' width={100} height={100}  src="https://daisyui.com/images/stock/photo-1559703248-dcaaec9fab78.jpg" />
+                
             </div> 
             <div className="carousel-item h-full">
                 <Image alt='ufi' width={100} height={100}  src="https://daisyui.com/images/stock/photo-1565098772267-60af42b81ef2.jpg" />
