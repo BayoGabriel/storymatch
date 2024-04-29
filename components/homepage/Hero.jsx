@@ -19,7 +19,7 @@ const Hero = () => {
                         </h1>
                     </div>
                     <div className="w-full flex items-center gap-2">
-                        <Image
+                        .
                     </div>
                 </div>
             </Carousel>
