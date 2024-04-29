@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <>
         <div className="w-full h-[500px]">
-            <Carousel leftControl=" " rightControl=" " indicators="  " pauseOnHover>
+            <Carousel leftControl=" " rightControl=" " indicators= pauseOnHover>
                 <div className="w-full h-full bg-green-400"></div>
                 <div className="w-full h-full bg-green-500"></div>
                 <div className="w-full h-full bg-green-600"></div>
