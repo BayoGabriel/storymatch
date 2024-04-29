@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import './style.css';
+import '@';
 
 const TextAnimation = () => {
   const [index, setIndex] = useState(0);
