@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import { Carousel } from 'flowbite-react'
 import one from '@/public/images/one.png'
-import one from '@/public/images/one.png'
+import two from '@/public/images/two.png'
 import one from '@/public/images/one.png'
 import one from '@/public/images/one.png'
 import one from '@/public/images/one.png'
