@@ -4,7 +4,7 @@ import { Carousel } from 'flowbite-react'
 const Hero = () => {
   return (
     <>
-        <div className="w-full h-[88vh]">
+        <div className="w-full h-[89vh]">
             <Carousel leftControl=" " rightControl=" " indicators={false} pauseOnHover className='h-full'>
                 <div className="w-full h-full flex items-center justify-center flex-col gap-8 bg-green-700 rounded-none text-white">
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
