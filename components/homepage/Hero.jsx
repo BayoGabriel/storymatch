@@ -20,6 +20,11 @@ const Hero = () => {
                     </div>
                     <div className="max-lg:hidden flex gap-4">
                         <Image src={one} alt='one'/>
+                        <Image src={one} alt='one'/>
+                        <Image src={one} alt='one'/>
+                        <Image src={one} alt='one'/>
+                        <Image src={one} alt='one'/>
+                        <Image src={one} alt='one'/>
                     </div>
                 </div>
             </Carousel>
