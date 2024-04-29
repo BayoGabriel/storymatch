@@ -1,4 +1,4 @@
-
+""
 import { useEffect, useState } from 'react';
 import '@/public/styles/hero.css';
 
