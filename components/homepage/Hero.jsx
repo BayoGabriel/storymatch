@@ -1,6 +1,6 @@
 "use client"
 import React, { useEffect, useState } from 'react';
-import './hero.css';
+import '@//hero.css';
 
 const TextAnimation = () => {
   const [index, setIndex] = useState(0);
