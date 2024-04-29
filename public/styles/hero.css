@@ -64,7 +64,7 @@
 	display: block;
 	animation: textIn .5s ease;
 }
-.home .home-text . span.text-out{
+.home .home-text .animate-text span.text-out{
 	animation: textOut .5s ease;
 }
 @keyframes textIn{
