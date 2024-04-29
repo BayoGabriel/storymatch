@@ -1,6 +1,7 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/shared/NavBar";
+import Hero from "@/components/homepage/Hero";
 
 
 export const metadata = {
@@ -14,7 +15,7 @@ export default function RootLayout({ children }) {
       <body>
         <div className="flex flex-col container m-auto px-10 py-4">
           <Navbar/>
-          <Her
+          <Hero/>
           {children}
         </div>
       </body>
