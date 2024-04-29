@@ -1,11 +1,6 @@
 import Image from 'next/image'
 import { Carousel } from 'flowbite-react'
-import one from '@/public/images/bgh.jpg'
-import two from '@/public/images/two.png'
-import three from '@/public/images/three.png'
-import four from '@/public/images/four.png'
-import five from '@/public/images/five.png'
-import six from '@/public/images/six.png'
+import ''
 const Hero = () => {
   return (
     <>
