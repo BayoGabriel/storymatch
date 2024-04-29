@@ -14,7 +14,7 @@ const Hero = () => {
                         Instant Connection, Endless Conversations
                         </h1>
                     </div>
-                    <div className="w-full h-full grid grid-cols-4 grid-rows-4 z-900">
+                    <div className="w-full h-full grid grid-cols-4 grid-rows-4 z-">
                         <Image src={one} alt='odcvnjl' />
                         <Image src={one} alt='odcvnjl' />
                         <Image src={one} alt='odcvnjl' />
