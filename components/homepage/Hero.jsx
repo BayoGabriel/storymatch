@@ -17,7 +17,7 @@ const Hero = () => {
                     <h1 className='text-[50px]'>No Icebreakers Needed</h1>                   
                 </div>
                 <div className="w-full flex items-center justify-center flex-col gap-8 h-full bg-green-800 rounded-none text-white">
-                    <p>Dive Straight into the Deep End of Chats That Speak to You.</p>
+                    <p>Get connected to the cp</p>
                     <h1 className='text-[50px]'>Your interest, instantly</h1>                   
                 </div>
             </Carousel>
