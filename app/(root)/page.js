@@ -2,7 +2,7 @@
 const page = () => {
   return (
     <>
-      <div></div>
+      <div className="w-full h-"></div>
     </>
   )
 }
