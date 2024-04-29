@@ -19,12 +19,7 @@ const Hero = () => {
                         </h1>
                     </div>
                     <div className="max-lg:hidden flex gap-4 mt-8">
-                        <Image src={one} alt='one' className='h-[100px]'/>
-                        <Image src={two} alt='two' className='h-[50px]'/>
-                        <Image src={three} alt='one' className='h-[150pc]'/>
-                        <Image src={four} alt='four' className='h-[120px]'/>
-                        <Image src={five} alt='five' className='h-[50px]'/>
-                        <Image src={six} alt='six' className='h-[100px]'/>
+                       
                     </div>
                 </div>
             </Carousel>
