@@ -19,7 +19,7 @@ const Hero = () => {
                         </h1>
                     </div>
                     <div className="w-full flex items-center gap-2">
-                        <div className="h-[]"></div>
+                        <div className="h-[]"><Image src={}</div>
                     </div>
                 </div>
             </Carousel>
