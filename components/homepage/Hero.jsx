@@ -4,7 +4,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <>
-        <div className="h-96 carousel carousel-vertical rounded-box">
+        <div className="h-full carousel carousel-vertical rounded-box">
             <div className="carousel-item h-full">
                 <Image alt='ufi' src="https://daisyui.com/images/stock/photo-1559703248-dcaaec9fab78.jpg" />
             </div> 
