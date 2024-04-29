@@ -21,7 +21,7 @@ const Hero = () => {
                     <div className="max-lg:hidden flex gap-4 mt-8">
                         <Image src={one} alt='one' className='h-[300px]'/>
                         <Image src={two} alt='two' className='h-[200px]'/>
-                        <Image src={three} alt='one'/>
+                        <Image src={three} alt='one' className='h-[300px]'/>
                         <Image src={four} alt='four'/>
                         <Image src={five} alt='five' className='h-[200px]'/>
                         <Image src={six} alt='six' className='h-[300px]'/>
