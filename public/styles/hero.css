@@ -60,7 +60,7 @@
     display: none;
 }
 
-.home .home-text p span.text-in{
+.home .home-text .animate-text span.text-in{
 	display: block;
 	animation: textIn .5s ease;
 }
