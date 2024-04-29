@@ -47,7 +47,7 @@
 	font-weight: 700;
 	margin:0 0 20px;
 }
-.home .home-text p{
+.home .home-text {
 	margin:0;
 	overflow: hidden;
 }
