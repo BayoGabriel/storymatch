@@ -32,7 +32,7 @@ const TextAnimation = () => {
       <div className="container">
         <div className="row">
           <div className="home-text">
-            <p className="animate-text">
+            <div className="animate-text">
               {texts.map((text, item) => (
                 <span key={item} className={item === index ? 'text-in' : 'text-out'}>
                   {text}
