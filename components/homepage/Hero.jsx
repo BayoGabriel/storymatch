@@ -18,7 +18,7 @@ const Hero = () => {
                         Instant Connection, Endless Conversations
                         </h1>
                     </div>
-                    <div className="max-lg:hidden flex gap-4">
+                    <div className="max-lg:hidden flex gap-4 mt-8">
                         <Image src={one} alt='one'/>
                         <Image src={two} alt='two'/>
                         <Image src={three} alt='one'/>
