@@ -13,7 +13,7 @@ const Hero = () => {
                         Instant Connection, Endless Conversations
                         </h1>
                     </div>
-                    .
+                    .w-
                 </div>
             </Carousel>
         </div>
