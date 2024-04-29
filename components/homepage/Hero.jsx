@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import { Carousel } from 'flowbite-react'
+
 const Hero = () => {
   return (
     <>
