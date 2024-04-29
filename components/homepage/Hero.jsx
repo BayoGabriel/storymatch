@@ -18,7 +18,7 @@ const Hero = () => {
              </div> 
             <div className="carousel-item h-full w-full bg-yellow-400">
              </div> 
-            <div className="carousel-item h-full w-full bg-bl-400 ">
+            <div className="carousel-item h-full w-full bg-blue-400 ">
             </div>
         </div>
     </>
