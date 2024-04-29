@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import '@/public/styles/';
+import '@/public/styles/hero.css';
 
 const TextAnimation = () => {
   const [index, setIndex] = useState(0);
