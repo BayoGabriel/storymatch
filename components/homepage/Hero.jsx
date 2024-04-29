@@ -27,6 +27,10 @@ const Hero = () => {
                         <Image src={one} alt='odcvnjl' />
                         <Image src={one} alt='odcvnjl' />
                         <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
                     </div>
                 </div>
             </Carousel>
