@@ -51,7 +51,7 @@
 	margin:0;
 	overflow: hidden;
 }
-.home .home-text p span{
+.home .home-text .animate-text span{
     font-size: 40px;
     color:#ff2c45;
     font-weight: 700;
