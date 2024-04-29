@@ -8,17 +8,17 @@ const Hero = () => {
             <div className="carousel-item h-full bg-red-400">
                 
             </div> 
-            <div className="carousel-item h-full bg-red-400">
+            <div className="carousel-item h-full ">
             </div> 
-            <div className="carousel-item h-full bg-red-400">
+            <div className="carousel-item h-full ">
             </div> 
-            <div className="carousel-item h-full bg-red-400">
+            <div className="carousel-item h-full ">
             </div> 
             <div className="carousel-item h-full">
- bg-red-400            </div> 
+             </div> 
             <div className="carousel-item h-full">
- bg-red-400            </div> 
-            <div className="carousel-item h-full bg-red-400">
+             </div> 
+            <div className="carousel-item h-full ">
             </div>
         </div>
     </>
