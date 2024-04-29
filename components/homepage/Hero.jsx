@@ -10,7 +10,7 @@ const Hero = () => {
                     <h1 className="">
                     Instant Connection, Endless Conversations
                     </h1>
-                    p
+                    <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
                 </div>
                 <div className="w-full h-full bg-green-800"></div>
                 <div className="w-full h-full bg-green-900 poppins-extrabold text-white">
