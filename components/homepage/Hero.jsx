@@ -15,7 +15,7 @@ const Hero = () => {
                         </h1>
                     </div>
                     <div className="w-full h-full grid grid-cols-4 grid-rows-4">
-                        <Image src={one}
+                        <Image src={one} 
                     </div>
                 </div>
             </Carousel>
