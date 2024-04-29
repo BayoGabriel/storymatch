@@ -12,7 +12,7 @@ const Hero = () => {
         <div className="w-full h-[89vh]">
             <Carousel leftControl=" " rightControl=" " indicators={false} pauseOnHover className='h-full'>
                 <div className="w-full h-full bg-dlightest rounded-none text-black">
-                    <div className="flex items-center justify-center flex-col gap-8">
+                    <div className="flex items-center justify-center flex-col gap-8 mt-10">
                         <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
                         <h1 className="text-[50px]">
                         Instant Connection, Endless Conversations
