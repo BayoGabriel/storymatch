@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import { Carousel } from 'flowbite-react'
-import '@/'
+import '@/p'
 const Hero = () => {
   return (
     <>
