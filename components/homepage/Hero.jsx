@@ -13,7 +13,7 @@ const Hero = () => {
                         Instant Connection, Endless Conversations
                         </h1>
                     </div>
-                    <div className="lg"></div>
+                    <div className="max:"></div>
                 </div>
             </Carousel>
         </div>
