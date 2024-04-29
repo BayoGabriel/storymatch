@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="w-full h-[500px]">
             <Carousel pauseOnHover>
                 <div className="w-full h-full bg-green-400"></div>
-                <div className="w-full h-full bg-green-400"></div>
+                <div className="w-full h-full bg-green-500"></div>
                 <div className="w-full h-full bg-green-400"></div>
                 <div className="w-full h-full bg-green-400"></div>
                 <div className="w-full h-full bg-green-400"></div>
