@@ -16,6 +16,17 @@ const Hero = () => {
                     </div>
                     <div className="w-full h-full grid grid-cols-4 grid-rows-4">
                         <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
+                        <Image src={one} alt='odcvnjl' />
                     </div>
                 </div>
             </Carousel>
