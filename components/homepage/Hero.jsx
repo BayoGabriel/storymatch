@@ -32,7 +32,6 @@ const TextAnimation = () => {
       <div className="container">
         <div className="row">
           <div className="home-text">
-            <h1>How can I protect myself from Covid-19?</h1>
             <p className="animate-text">
               {texts.map((text, item) => (
                 <span key={item} className={item === index ? 'text-in' : 'text-out'}>
