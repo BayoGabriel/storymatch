@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 * {
-  font-family: s;
+  font-family: p;
 }
 @layer utilities {
   .text-balance {
