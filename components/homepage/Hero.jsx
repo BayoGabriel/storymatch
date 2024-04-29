@@ -19,7 +19,7 @@ const Hero = () => {
                         </h1>
                     </div>
                     <div className="max-lg:hidden flex gap-4">
-                        <Image src={one} />
+                        <Image src={one} alt=''/>
                     </div>
                 </div>
             </Carousel>
