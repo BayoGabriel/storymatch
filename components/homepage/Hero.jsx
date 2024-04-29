@@ -20,6 +20,11 @@ const Hero = () => {
                     </div>
                     <div className="w-full flex items-center gap-2">
                         <div className="h-[]"><Image src={one} alt='gg'/></div>
+                        <div className="h-[]"><Image src={one} alt='gg'/></div>
+                        <div className="h-[]"><Image src={one} alt='gg'/></div>
+                        <div className="h-[]"><Image src={one} alt='gg'/></div>
+                        <div className="h-[]"><Image src={one} alt='gg'/></div>
+                        <div className="h-[]"><Image src={one} alt='gg'/></div>
                     </div>
                 </div>
             </Carousel>
