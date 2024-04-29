@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <>
         <div className="h-full carousel carousel-vertical rounded-box">
-            <div className="carousel-item h-full">
+            <div className="carousel-item h-full bg">
                 
             </div> 
             <div className="carousel-item h-full">
