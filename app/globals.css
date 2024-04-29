@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 .idan {
-  background-image: url();
+  background-image: url(../);
 }
 * {
   font-family: "Poppins";
