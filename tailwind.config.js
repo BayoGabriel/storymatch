@@ -19,7 +19,7 @@ module.exports = {
         'dlighter': '#E3E3E3',
         'dlightest': '#F4F4F5',
 
-        'darkest': '#DE5212',
+        'darkest': '#DE5212',33
         'darker': '#E9672B',
         'normal': '#EF8C5F',
         'lighter': '#E8CFB5',
