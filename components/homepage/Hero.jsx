@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import { Carousel } from 'flowbite-react'
 import '@/public/styles/hero.css'
-import one from '@/public/images/diego-ph-fIq0tET6llw-unsplash.'
+import one from '@/public/images/diego-ph-fIq0tET6llw-unsplash.jpg'
 const Hero = () => {
   return (
     <>
