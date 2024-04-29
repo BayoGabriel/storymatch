@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 * {
-  font-family: "poppins";
+  font-family: "Poppins";
 }
 @layer utilities {
   .text-balance {
