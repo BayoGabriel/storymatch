@@ -13,7 +13,7 @@ const Hero = () => {
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
                 </div>
                 <div className="w-full h-full bg-green-800 text-white">
-                    <h1>No Icebreakers Needed</h1>
+                    <h1 className='text-[50px]'>No Icebreakers Needed</h1>
                     <p>Dive Straight into the Deep End of Chats That Speak to You.</p>
                 </div>
             </Carousel>
