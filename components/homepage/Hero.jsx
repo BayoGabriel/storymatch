@@ -14,6 +14,7 @@ const Hero = () => {
                 </div>
                 <div className="w-full h-full bg-green-800 text-white">
                     <h1>No Icebreakers Needed</h1>
+                    <p></p>
                 </div>
                 <div className="w-full h-full bg-green-900 text-white">
                     <h1>Helloe worled</h1>
