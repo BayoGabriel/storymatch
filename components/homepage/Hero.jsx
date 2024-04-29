@@ -8,10 +8,10 @@ const Hero = () => {
             <Carousel leftControl=" " rightControl=" " indicators={false} pauseOnHover className='h-full'>
                 <div className="w-full h-full flex items-center justify-center flex-col gap-8 bg-green-700 rounded-none text-white">
                     <div className="">
-                    <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
-                    <h1 className="text-[50px]">
-                    Instant Connection, Endless Conversations
-                    </h1>
+                        <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
+                        <h1 className="text-[50px]">
+                        Instant Connection, Endless Conversations
+                        </h1>
                     </div>
                 </div>
                 <div className="w-full flex items-center justify-center flex-col gap-8 h-full bg-green-800 rounded-none text-white">
