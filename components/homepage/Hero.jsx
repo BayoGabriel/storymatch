@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <>
         <div className="w-full h-[89vh] relative">
-            <Carousel leftControl=" " rightControl=" " indicators={false} pauseOnHover className='h-full '>
+            <Carousel leftControl=" " rightControl=" " indicators={false} pauseOnHover className='h-full p-8'>
                 <div className="w-full h-full idan rounded-none py-6 bg-red-200 text-black">
                     <div className="flex w-full h-full items-center justify-center bg-slate-300 flex-col gap-8 absolute top-10 ">
                         <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
