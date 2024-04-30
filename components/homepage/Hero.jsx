@@ -18,6 +18,30 @@ const Hero = () => {
                         <div className="idan">
                             <Image src={one} alt='on' className='w-full h-full'/>
                         </div>
+                        <div className="idan">
+                            <Image src={one} alt='on' className='w-full h-full'/>
+                        </div>
+                        <div className="idan">
+                            <Image src={one} alt='on' className='w-full h-full'/>
+                        </div>
+                        <div className="idan">
+                            <Image src={one} alt='on' className='w-full h-full'/>
+                        </div>
+                        <div className="idan">
+                            <Image src={one} alt='on' className='w-full h-full'/>
+                        </div>
+                        <div className="idan">
+                            <Image src={one} alt='on' className='w-full h-full'/>
+                        </div>
+                        <div className="idan">
+                            <Image src={one} alt='on' className='w-full h-full'/>
+                        </div>
+                        <div className="idan">
+                            <Image src={one} alt='on' className='w-full h-full'/>
+                        </div>
+                        <div className="idan">
+                            <Image src={one} alt='on' className='w-full h-full'/>
+                        </div>
                     </div>
                 </div>
             </Carousel>
