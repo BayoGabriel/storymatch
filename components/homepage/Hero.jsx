@@ -19,7 +19,7 @@ const Hero = () => {
                     Carousel 2
                     </h1>
                 </div>
-                <div className="flex w-full h-full items-center justify-center bg-yellow-300 flex-col gap-8 ">
+                <div className="flex w-full h-full items-center justify-center bg-blue-300 flex-col gap-8 ">
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
                     <h1 className="text-[50px]">
                     Carousel 3
