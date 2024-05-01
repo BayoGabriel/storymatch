@@ -39,7 +39,6 @@ const Navbar = () => {
       <Link href="/" className="text-agreen h-[50px] ">
         Logo
       </Link>
-      <Link href="/">Explore</Link>
       </div>
         <div className="hidden lg:flex relative items-center">
           <input
