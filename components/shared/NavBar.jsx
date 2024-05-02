@@ -39,7 +39,6 @@ const Navbar = () => {
       <Link href="/" className="text-red h-[50px] ">
         Trybe
       </Link>
-      </div>
         <div className="hidden lg:flex relative items-center">
           <input
             type="text"
