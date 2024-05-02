@@ -14,6 +14,7 @@ const Hero = () => {
                     Instant Connection, Endless Conversations
                     </h1>
                 </div>
+                .
                 </div>
                 <div className="flex idan w-full h-full items-center justify-center bg-red-300 flex-col gap-8 ">
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
