@@ -36,7 +36,7 @@ const Navbar = () => {
     <div className="bg-transparent w-full px-6 mb-4">
       <div className="flex justify-between items-center ">
       <div className="flex gap-4">
-      <Link href="/" className="text-agreen h-[50px] ">
+      <Link href="/" className="text-red h-[50px] ">
         Trybe
       </Link>
       </div>
