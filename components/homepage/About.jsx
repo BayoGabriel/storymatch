@@ -1,4 +1,4 @@
-import React from 'react'
+import CgProfile from 'react'
 
 const About = () => {
   return (
