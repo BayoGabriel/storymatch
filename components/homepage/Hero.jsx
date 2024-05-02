@@ -15,7 +15,7 @@ const Hero = () => {
                     Instant Connection, Endless Conversations
                     </h1>
                 </div>
-                <div className="grid grid-cols">
+                <div className="grid grid-cols-2 grid-row">
                     <Image src={five} alt='alt' className=''/>
                 </div>
                 </div>
