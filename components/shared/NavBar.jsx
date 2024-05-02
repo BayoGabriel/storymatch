@@ -6,6 +6,7 @@ import Link from "next/link";
 import Image from "next/image";
 import logo from '@/public/images/logo.png'
 
+
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
