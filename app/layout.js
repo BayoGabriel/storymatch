@@ -14,6 +14,7 @@ export default function RootLayout({ children }) {
         <div className="flex flex-col container m-auto">
           <Navbar/>
           {children}
+          
         </div>
       </body>
     </html>
