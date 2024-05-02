@@ -36,7 +36,7 @@ const Navbar = () => {
   return (
     <div className="bg-transparent w-full px-6 py-2 mb-4">
       <div className="flex justify-between items-center ">
-      .
+      <div className="flex items"></div>
         <div className="hidden lg:flex relative items-center">
           <input
             type="text"
