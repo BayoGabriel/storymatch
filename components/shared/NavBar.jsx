@@ -34,7 +34,6 @@ const Navbar = () => {
   ]
   
   return (
-    <div className="">
       <div className="flex justify-between items-center ">
       <div className="flex items-center justify-center">
       <Link href="/" className="text-red h-[50px] ">
