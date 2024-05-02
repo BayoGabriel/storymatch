@@ -3,8 +3,8 @@ import React from 'react'
 const About = () => {
   return (
     <>
-        <div className="w-full">
-            
+        <div className="p-4 w-full">
+
         </div>
     </>
   )
