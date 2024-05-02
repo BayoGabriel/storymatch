@@ -1,3 +1,4 @@
+import About from "@/components/homepage/About"
 import Hero from "@/components/homepage/Hero"
 
 const page = () => {
@@ -5,7 +6,7 @@ const page = () => {
     <>
       <div className="w-full">
         <Hero/>
-        <Abou
+        <About/>
       </div>
     </>
   )
