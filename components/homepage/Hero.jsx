@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="w-full h-[89vh]">
             <Carousel leftControl=" " rightControl=" " indicators={false} pauseOnHover className='w-full h-full idan rounded-none  text-white'>
                 <div className="flex w-full h-full items-center justify-center bg-red-300 flex-col gap-8 ">
-                    <p>Just 3 sections, a hero, a \"\how it works"</p>
+                    <p>Just 3 sections, a hero, a \"how it works"</p>
                     <h1 className="text-[50px]">
                     Check Out Pinterest homepage
                     </h1>
