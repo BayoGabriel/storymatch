@@ -27,6 +27,7 @@ const Hero = () => {
                     <h1 className="text-[50px]">
                     Carousel 3
                     </h1>
+                    <button className='text-white bg-darker py-2 px-6 rounded-md'>Join Now</button>
                 </div>
             </Carousel>
         </div>
