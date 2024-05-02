@@ -17,6 +17,9 @@ const Hero = () => {
                 </div>
                 <div className="grid grid-cols-2 grid-rows-2">
                     <Image src={five} alt='alt' className=''/>
+                    <Image src={five} alt='alt' className=''/>
+                    <Image src={five} alt='alt' className=''/>
+                    <Image src={five} alt='alt' className=''/>
                 </div>
                 </div>
                 <div className="flex idan w-full h-full items-center justify-center bg-red-300 flex-col gap-8 ">
