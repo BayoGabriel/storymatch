@@ -65,26 +65,26 @@ const Navbar = () => {
           )}
         </div>
       </div>
-    {isMenuOpen && (
-      <div className="lg:hidden z-4 flex rounded-20 flex-col items-center justify-center absolute top-20 left-1/2 transform -translate-x-1/2 bg-dlighter p-4 w-full">
-      {Navlinks.map((item, index) => {
-        return (
-          <Link href={item.route} key={index} className="text-ddarkest items-center text-decoration-none mb-4 w-full text-left">{item.title}</Link>
-        );
-      })}
-      <div className="relative w-full">
-        <input
-          type="text"
-          placeholder="Search..."
-          className="flex-1 px-4 py-2 pl-10 rounded-lg bg-white text-ddarkest w-full appearance-none block border border-gray-300 placeholder-gray-500 focus:outline-none focus:ring-agreen focus:border-agreen sm:text-sm"
-        />
-        <div className="absolute top-0 right-4 flex items-center h-full pl-3">
-          <CiSearch />
+        {isMenuOpen && (
+          <div className="lg:hidden z-4 flex rounded-20 flex-col items-center justify-center absolute top-20 left-1/2 transform -translate-x-1/2 bg-dlighter p-4 w-full">
+          {Navlinks.map((item, index) => {
+            return (
+              <Link href={item.route} key={index} className="text-ddarkest items-center text-decoration-none mb-4 w-full text-left">{item.title}</Link>
+            );
+          })}
+          <div className="relative w-full">
+            <input
+              type="text"
+              placeholder="Search..."
+              className="flex-1 px-4 py-2 pl-10 rounded-lg bg-white text-ddarkest w-full appearance-none block border border-gray-300 placeholder-gray-500 focus:outline-none focus:ring-agreen focus:border-agreen sm:text-sm"
+            />
+            <div className="absolute top-0 right-4 flex items-center h-full pl-3">
+              <CiSearch />
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
-          
-    )}
+              
+        )}
     </nav>
     
   );
