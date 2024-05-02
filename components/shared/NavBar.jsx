@@ -34,7 +34,7 @@ const Navbar = () => {
   ]
   
   return (
-    <div className="bg-transparent w-full px-6 py-2 mb-4">
+    <div className="">
       <div className="flex justify-between items-center ">
       <div className="flex items-center justify-center">
       <Link href="/" className="text-red h-[50px] ">
