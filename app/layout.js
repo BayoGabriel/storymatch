@@ -1,6 +1,7 @@
 import { Poppins } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/shared/NavBar";
+import Footer from "@/components/shared/Footer";
 
 export const metadata = {
   title: "Create Next App",
@@ -14,7 +15,7 @@ export default function RootLayout({ children }) {
         <div className="flex flex-col container m-auto">
           <Navbar/>
           {children}
-          <Foote
+          <Footer
         </div>
       </body>
     </html>
