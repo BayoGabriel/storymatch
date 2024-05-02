@@ -11,7 +11,7 @@ const Hero = () => {
                 <div className="flex w-full h-full items-center justify-center bg-red-300 flex-col gap-8 ">
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
                     <h1 className="text-[50px]">
-                    Carousel 2
+                    Check Out Pintenrest
                     </h1>
                     <button className='text-white bg-darker py-2 px-6 rounded-md'>Join Now</button>
                 </div>
