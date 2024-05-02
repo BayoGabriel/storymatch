@@ -1,4 +1,4 @@
-import CgProfile from 'react'
+import CgProfile from 'react-icons'
 
 const About = () => {
   return (
