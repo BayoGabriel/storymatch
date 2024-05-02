@@ -5,6 +5,7 @@ const page = () => {
     <>
       <div className="w-full">
         <Hero/>
+        <Abou
       </div>
     </>
   )
