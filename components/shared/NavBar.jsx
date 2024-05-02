@@ -35,11 +35,11 @@ const Navbar = () => {
   
   return (
     <nav className="flex justify-between items-center bg-transparent w-full px-6 py-2 mb-4">
-    <div className="flex items-center justify-center">
-    <Link href="/" className="text-red h-[50px] ">
-      Logo
-    </Link>
-    </div>
+      <div className="flex items-center justify-center">
+      <Link href="/" className="text-red h-[50px] ">
+        Logo
+      </Link>
+      </div>
       <div className="hidden lg:flex relative items-center">
         <input
           type="text"
