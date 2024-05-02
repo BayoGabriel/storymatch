@@ -55,16 +55,16 @@ const Navbar = () => {
               )
           })}
       </div>
-    <div className="flex items-center">
-      <a className="flex items-center text-dlightest text-decoration-none cursor-pointer py-2 px-6 bg-agreen rounded-lg hover:bg-white hover:text-agreen hover:border-agreen border border-solid gap-3 justify-center" ><CiUser /><span>Account</span></a>
-      <div className="lg:hidden">
-        {isMenuOpen ? (
-          <LiaTimesSolid className="text-ddarkest cursor-pointer h-[1em]" onClick={toggleMenu} />
-        ) : (
-          <CiMenuFries className="text-ddarkest cursor-pointer h-[1em]" onClick={toggleMenu} />
-        )}
+      <div className="flex items-center">
+        <a className="flex items-center text-dlightest text-decoration-none cursor-pointer py-2 px-6 bg-agreen rounded-lg hover:bg-white hover:text-agreen hover:border-agreen border border-solid gap-3 justify-center" ><CiUser /><span>Account</span></a>
+        <div className="lg:hidden">
+          {isMenuOpen ? (
+            <LiaTimesSolid className="text-ddarkest cursor-pointer h-[1em]" onClick={toggleMenu} />
+          ) : (
+            <CiMenuFries className="text-ddarkest cursor-pointer h-[1em]" onClick={toggleMenu} />
+          )}
+        </div>
       </div>
-    </div>
     {isMenuOpen && (
       <div className="lg:hidden z-4 flex rounded-20 flex-col items-center justify-center absolute top-20 left-1/2 transform -translate-x-1/2 bg-dlighter p-4 w-full">
       {Navlinks.map((item, index) => {
