@@ -5,6 +5,7 @@ import five from '@/public/images/kitchen.jpg'
 import four from '@/public/images/hands-holding-puzzle-business-problem-solving-concept.jpg'
 import two from '@/public/images/authentic-small-youthful-marketing-agency.png'
 
+
 const Hero = () => {
   return (
     <>
