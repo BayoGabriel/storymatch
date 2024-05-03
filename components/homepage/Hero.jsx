@@ -27,7 +27,7 @@ const Hero = () => {
                         
                     </div>
                 </div>
-                <div className="grid grid-cols-2 gap-4 grid-rows-2 mt-">
+                <div className="grid grid-cols-2 gap-4 grid-rows-2 mt-4">
                     <div className="rounded-full">
                         {/* <Image src={two} alt='wi' className='w-full rounded-full h-full'/> */}
                     </div>
@@ -54,7 +54,7 @@ const Hero = () => {
                         
                     </div>
                 </div>
-                <div className="grid grid-cols-2 gap-4 grid-rows-2 mt-">
+                <div className="grid grid-cols-2 gap-4 grid-rows-2 mt-4">
                     <div className="rounded-full">
                         <Image src={two} alt='wi' className='w-full rounded-full h-full'/>
                     </div>
@@ -81,7 +81,7 @@ const Hero = () => {
                         
                     </div>
                 </div>
-                <div className="grid grid-cols-2 gap-4 grid-rows-2 mt-">
+                <div className="grid grid-cols-2 gap-4 grid-rows-2 mt-4">
                     <div className="rounded-full">
                         {/* <Image src={two} alt='wi' className='w-full rounded-full h-full'/> */}
                     </div>
