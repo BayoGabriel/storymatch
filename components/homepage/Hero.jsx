@@ -1,4 +1,6 @@
 import { FcGoogle } from 'react-icons/fc'
+import { IoMailOpenOutline } from "react-icons/io5";
+
 import Image from 'next/image'
 import { Carousel } from 'flowbite-react'
 import '@/public/styles/hero.css'
