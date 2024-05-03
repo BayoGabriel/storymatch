@@ -29,7 +29,7 @@ const Hero = () => {
                         <Image src={two} alt='wi' className='w-full h-full'/>
                     </div>
                     <div className="">
-                        <Image src={two} alt='wi' className='w-full h-full'/>
+                        <Image src={three} alt='wi' className='w-full h-full'/>
                     </div>
                     <div className="">
                         <Image src={two} alt='wi' className='w-full h-full'/>
