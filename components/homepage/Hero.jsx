@@ -6,6 +6,7 @@ import four from '@/public/images/hands-holding-puzzle-business-problem-solving-
 import two from '@/public/images/authentic-small-youthful-marketing-agency.jpg'
 
 
+
 const Hero = () => {
   return (
     <>
