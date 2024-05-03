@@ -55,7 +55,7 @@ const Navbar = () => {
               )
           })}
       </div>
-      <div className="flex items-center">
+      <div className="flex items-center ju">
         <a className="flex items-center text-dlightest text-decoration-none cursor-pointer py-2 px-6 bg-agreen rounded-lg hover:bg-white hover:text-agreen hover:border-agreen border border-solid gap-3 justify-center max-md:px-3 max-md:py-1" ><CiUser /><span>Account</span></a>
         <div className="lg:hidden">
           {isMenuOpen ? (
