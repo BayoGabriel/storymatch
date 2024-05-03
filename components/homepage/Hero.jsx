@@ -1,4 +1,4 @@
-import { FcGoogle } from'react-icons/fc'
+import { FcGoogle } from 'react-icons/fc'
 import Image from 'next/image'
 import { Carousel } from 'flowbite-react'
 import '@/public/styles/hero.css'
