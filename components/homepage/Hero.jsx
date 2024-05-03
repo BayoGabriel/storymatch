@@ -1,4 +1,4 @@
-
+import { }
 import Image from 'next/image'
 import { Carousel } from 'flowbite-react'
 import '@/public/styles/hero.css'
