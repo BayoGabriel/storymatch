@@ -18,7 +18,7 @@ const Hero = () => {
                     Instant Connection, Endless Conversations
                     </h1>
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
-                    <button className='text-white bg-darker py-2 px-6 rounded-md'>Join Now</button>
+                    <div className="flex"></div>
                 </div>
                 <div className="grid grid-cols-2 grid-rows-2">
                     <div className="">
