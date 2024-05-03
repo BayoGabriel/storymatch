@@ -19,7 +19,7 @@ const Hero = () => {
                     </h1>
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
                     <div className="flex gap-4 items-center">
-                        di
+                        <div></div>
                     </div>
                 </div>
                 <div className="grid grid-cols-2 grid-rows-2">
