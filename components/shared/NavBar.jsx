@@ -75,7 +75,7 @@ const Navbar = () => {
           <div className="relative w-full">
             <input
               type="text"
-              placeholder="Search..."
+              placeholder="Search a book you are reading, mood, etc"
               className="flex-1 px-4 py-2 pl-10 rounded-lg bg-white text-ddarkest w-full appearance-none block border border-gray-300 placeholder-gray-500 focus:outline-none focus:ring-agreen focus:border-agreen sm:text-sm"
             />
             <div className="absolute top-0 right-4 flex items-center h-full pl-3">
