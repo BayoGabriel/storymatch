@@ -42,7 +42,7 @@ const Hero = () => {
                     <h1 className="text-[50px]">
                     
                     </h1>
-                    <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
+                   
                     <button className='text-white bg-darker py-2 px-6 rounded-md'>Join Now</button>
                 </div>
                 <div className="flex"></div>
