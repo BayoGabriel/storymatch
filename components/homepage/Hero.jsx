@@ -14,7 +14,6 @@ const Hero = () => {
             <Carousel leftControl=" " rightControl=" " indicators={false} pauseOnHover className='w-full h-full rounded-none  text-white'>
                 <div className="grid grid-cols-2 max-lg:grid-cols-1">
                 <div className="flex w-full h-full items-center justify-center bg-red-300 flex-col gap-8 ">
-                    
                     <h1 className="text-[50px]">
                     Instant Connection, Endless Conversations
                     </h1>
