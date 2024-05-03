@@ -4,7 +4,7 @@ import '@/public/styles/hero.css'
 import five from '@/public/images/kitchen.jpg'
 import four from '@/public/images/hands-holding-puzzle-business-problem-solving-concept.jpg'
 import two from '@/public/images/authentic-small-youthful-marketing-agency.jpg'
-import three from '@/public/images/'
+import three from '@/public/images/group-friends-posing-with-glasses-wine-cake-outdoor-party_23-2149366221.jpg'
 
 
 const Hero = () => {
