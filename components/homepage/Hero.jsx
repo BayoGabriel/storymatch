@@ -42,6 +42,33 @@ const Hero = () => {
                     </div>
                 </div>
                 </div>              
+                <div className="grid grid-cols-2 max-lg:grid-cols-1 items-center justify-center p-[30px]">
+                <div className="flex w-full h-full  flex-col gap-8 ">
+                    <h1 className="text-[50px]">
+                    Instant Connection, <br /> Endless Conversations
+                    </h1>
+                    <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
+                    <div className="flex gap-4 items-center">
+                        <button className='text-white gap-4 bg-darker py-2 px-6 rounded-md flex items-center justify-center '><span className='p-2 bg-white rounded-full'><FcGoogle/></span> <span>Join with google</span></button>
+                        <button className='text-white gap-4 bg-ddarker py-2 px-6 rounded-md flex items-center justify-center '><span className='p-2 rounded-full'><IoMailOpenOutline/></span> <span>Join with email</span></button>
+                        
+                    </div>
+                </div>
+                <div className="grid grid-cols-2 gap-4 grid-rows-2">
+                    <div className="rounded-full">
+                        {/* <Image src={two} alt='wi' className='w-full rounded-full h-full'/> */}
+                    </div>
+                    <div className="">
+                        <Image src={three} alt='wi' className='w-full h-full'/>
+                    </div>
+                    <div className="">
+                        <Image src={five} alt='wi' className='w-full h-full'/>
+                    </div>
+                    <div className="">
+                        {/* <Image src={four} alt='wi' className='w-full h-full'/> */}
+                    </div>
+                </div>
+                </div>              
             </Carousel>
         </div>
     </>
