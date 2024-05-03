@@ -24,6 +24,18 @@ const Hero = () => {
                     <div className="">
                         <Image src={two} alt='wi' className='w-full h-full'/>
                     </div>
+                    <div className="">
+                        <Image src={two} alt='wi' className='w-full h-full'/>
+                    </div>
+                    <div className="">
+                        <Image src={two} alt='wi' className='w-full h-full'/>
+                    </div>
+                    <div className="">
+                        <Image src={two} alt='wi' className='w-full h-full'/>
+                    </div>
+                    <div className="">
+                        <Image src={two} alt='wi' className='w-full h-full'/>
+                    </div>
                 </div>
                 </div>
                 <div className="grid grid-cols-2 max-md:grid-cols-1">
