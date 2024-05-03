@@ -76,7 +76,7 @@ const Hero = () => {
                     </h1>
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
                     <div className="flex gap-4 items-center">
-                        <button className='text-white gap-4 bg-darker py-2 px-6 max rounded-md flex items-center justify-center '><span className='p-2 bg-white rounded-full'><FcGoogle/></span> <span>Join with google</span></button>
+                        <button className='text-white gap-4 bg-darker py-2 px-6 max-md: rounded-md flex items-center justify-center '><span className='p-2 bg-white rounded-full'><FcGoogle/></span> <span>Join with google</span></button>
                         <button className='text-white gap-4 bg-ddarker py-2 px-6 rounded-md flex items-center justify-center '><span className='p-2 rounded-full'><IoMailOpenOutline/></span> <span>Join with email</span></button>
                         
                     </div>
