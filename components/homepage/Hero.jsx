@@ -26,7 +26,7 @@ const Hero = () => {
                         <button className=''><FcGoogle/> </button>
                         </div>
                         <div className='text-white bg-darker py-2 px-6 rounded-md'>
-                        <button className=''><IoMailOpenOutline/> <span></span></button>
+                        <button className=''><IoMailOpenOutline/> <span>Join with </span></button>
                         </div>
                     </div>
                 </div>
