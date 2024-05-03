@@ -41,8 +41,7 @@ const Hero = () => {
                         {/* <Image src={four} alt='wi' className='w-full h-full'/> */}
                     </div>
                 </div>
-                </div>
-                
+                </div>              
             </Carousel>
         </div>
     </>
