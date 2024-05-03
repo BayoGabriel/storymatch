@@ -21,7 +21,9 @@ const Hero = () => {
                     <button className='text-white bg-darker py-2 px-6 rounded-md'>Join Now</button>
                 </div>
                 <div className="grid grid-cols-2 grid-rows-2">
-                    <div className=""></div>
+                    <div className="">
+                        
+                    </div>
                 </div>
                 </div>
                 <div className="grid grid-cols-2 max-md:grid-cols-1">
