@@ -56,7 +56,7 @@ const Navbar = () => {
           })}
       </div>
       <div className="flex items-center">
-        <a className="flex items-center text-dlightest text-decoration-none cursor-pointer py-2 px-6 bg-agreen rounded-lg hover:bg-white hover:text-agreen hover:border-agreen border border-solid gap-3 justify-center max-md:" ><CiUser /><span>Account</span></a>
+        <a className="flex items-center text-dlightest text-decoration-none cursor-pointer py-2 px-6 bg-agreen rounded-lg hover:bg-white hover:text-agreen hover:border-agreen border border-solid gap-3 justify-center max-md:px-" ><CiUser /><span>Account</span></a>
         <div className="lg:hidden">
           {isMenuOpen ? (
             <LiaTimesSolid className="text-ddarkest cursor-pointer h-[1em]" onClick={toggleMenu} />
