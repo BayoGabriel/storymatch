@@ -3,6 +3,7 @@ import { Carousel } from 'flowbite-react'
 import '@/public/styles/hero.css'
 import five from '@/public/images/kitchen.jpg'
 
+
 const Hero = () => {
   return (
     <>
