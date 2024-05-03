@@ -25,6 +25,9 @@ const Hero = () => {
                         <div className='text-white bg-darker py-2 px-6 rounded-md'>
                         <button className=''><FcGoogle/> </button>
                         </div>
+                        <div className='text-white bg-darker py-2 px-6 rounded-md'>
+                        <button className=''><FcGoogle/> </button>
+                        </div>
                     </div>
                 </div>
                 <div className="grid grid-cols-2 gap-4 grid-rows-2">
