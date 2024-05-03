@@ -2,7 +2,7 @@ import Image from 'next/image'
 import { Carousel } from 'flowbite-react'
 import '@/public/styles/hero.css'
 import five from '@/public/images/kitchen.jpg'
-import four from '@/public/'
+import four from '@/public/images/'
 
 const Hero = () => {
   return (
