@@ -23,7 +23,7 @@ const Hero = () => {
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
                     <div className="flex gap-4 items-center">
                         <div className='text-white bg-darker py-2 px-6 rounded-md'>
-                        <button className=''><FcGoogle/> </button>
+                        <button className=''><FcGoogle/> <span>Join with google</span></button>
                         </div>
                         <div className='text-white bg-darker py-2 px-6 rounded-md'>
                         <button className=''><IoMailOpenOutline/> <span>Join with Email</span></button>
