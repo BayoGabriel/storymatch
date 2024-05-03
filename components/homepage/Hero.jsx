@@ -16,7 +16,7 @@ const Hero = () => {
                 <div className="flex w-full h-full items-center justify-center bg-red-300 flex-col gap-8 ">
                     <p>Just 3 sections, a hero, a how it works, and a footer</p>
                     <h1 className="text-[50px]">
-                    Check Out Pinterest homepage
+                    Instant Connection, Endless Conversations
                     </h1>
                     <button className='text-white bg-darker py-2 px-6 rounded-md'>Join Now</button>
                 </div>
