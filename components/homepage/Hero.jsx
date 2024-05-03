@@ -25,7 +25,7 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className="grid grid-cols-2 gap-4 grid-rows-2">
-                    <div className="">
+                    <div className="rounded-full">
                         <Image src={two} alt='wi' className='w-full h-full'/>
                     </div>
                     <div className="">
