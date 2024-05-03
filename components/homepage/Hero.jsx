@@ -32,7 +32,7 @@ const Hero = () => {
                         <Image src={three} alt='wi' className='w-full h-full'/>
                     </div>
                     <div className="">
-                        <Image src={five} alt='wi' className='w-full h-full'/>
+                        {/* <Image src={five} alt='wi' className='w-full h-full'/> */}
                     </div>
                     <div className="">
                         <Image src={four} alt='wi' className='w-full h-full'/>
