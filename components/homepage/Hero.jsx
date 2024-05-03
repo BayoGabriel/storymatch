@@ -22,7 +22,7 @@ const Hero = () => {
                     </h1>
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
                     <div className="flex gap-4 items-center">
-                        <button className=''><FcGoogle/> <span>Join with google</span></button>
+                        <button className='text-white bg-darker py-2 px-6 rounded-md'><FcGoogle/> <span>Join with google</span></button>
                         <button className=''><IoMailOpenOutline/> <span>Join with Email</span></button>
                     </div>
                 </div>
