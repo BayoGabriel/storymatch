@@ -17,7 +17,7 @@ const Hero = () => {
             <Carousel leftControl=" " rightControl=" " indicators={false} pauseOnHover className='w-full h-full rounded-none  text-black'>
                 <div className="grid grid-cols-2 max-lg:grid-cols-1 items-center justify-center p-[30px]">
                 <div className="flex w-full h-full  flex-col gap-8 ">
-                    <h1 className="text-[50px] max-md:text-[">
+                    <h1 className="text-[50px] max-md:text-[15o">
                     Instant Connection, <br /> Endless Conversations
                     </h1>
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
@@ -44,7 +44,7 @@ const Hero = () => {
                 </div>              
                 <div className="grid grid-cols-2 max-lg:grid-cols-1 items-center justify-center p-[30px]">
                 <div className="flex w-full h-full  flex-col gap-8 ">
-                    <h1 className="text-[50px] max-md:text-[">
+                    <h1 className="text-[50px] max-md:text-[15o">
                     Instant Connection, <br /> Endless Conversations 2
                     </h1>
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
@@ -71,7 +71,7 @@ const Hero = () => {
                 </div>              
                 <div className="grid grid-cols-2 max-lg:grid-cols-1 items-center justify-center p-[30px]">
                 <div className="flex w-full h-full  flex-col gap-8 ">
-                    <h1 className="text-[50px] max-md:text-[">
+                    <h1 className="text-[50px] max-md:text-[15o">
                     Instant Connection, <br /> Endless Conversations
                     </h1>
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
