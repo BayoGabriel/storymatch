@@ -26,7 +26,8 @@ const Hero = () => {
                         <button className=''><FcGoogle/> </button>
                         </div>
                         <div className='text-white bg-darker py-2 px-6 rounded-md'>
-                        <button className=''><FcGoogle/> </button>
+                        <button className=''><import { IoMailOpenOutline } from "react-icons/io5";
+/> </button>
                         </div>
                     </div>
                 </div>
