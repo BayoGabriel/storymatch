@@ -18,7 +18,7 @@ const Hero = () => {
                 <div className="grid grid-cols-2 max-lg:grid-cols-1 items-center justify-center p-[30px]">
                 <div className="flex w-full h-full  flex-col gap-8 ">
                     <h1 className="text-[50px]">
-                    Instant Connection, Endless Conversations
+                    Instant Connection, h Endless Conversations
                     </h1>
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
                     <div className="flex gap-4 items-center">
