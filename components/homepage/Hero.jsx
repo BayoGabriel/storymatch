@@ -15,7 +15,7 @@ const Hero = () => {
                     </h1>
                     <button className='text-white bg-darker py-2 px-6 rounded-md'>Join Now</button>
                 </div>
-                {/* <div className="grid grid-cols-2 max-md:grid-cols-1"> */}
+                <div className="grid grid-cols-2 max-md:grid-cols-1">
                 <div className="flex w-full h-full items-center justify-center bg-red-300 flex-col gap-8 ">
                     <h1 className="text-[50px]">
                     Instant Connection, Endless Conversations
