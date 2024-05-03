@@ -23,7 +23,7 @@ const Hero = () => {
                     <p>From Anecdotes to Anomalies, Find Your Tribe and Talk Freely.</p>
                     <button className='text-white bg-darker py-2 px-6 rounded-md'>Join Now</button>
                 </div>
-                .
+                <div className=""></div>
                 </div>
                 
                 <div className="flex w-full h-full items-center justify-center bg-blue-300 flex-col gap-8 ">
